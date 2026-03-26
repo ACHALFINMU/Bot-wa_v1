@@ -1,0 +1,19 @@
+# Dependency
+node_modules/
+
+# Session WhatsApp (jangan di-push!)
+session/
+
+# Environment / secrets
+.env
+
+# Database runtime (opsional, bisa di-push jika mau)
+# database.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
